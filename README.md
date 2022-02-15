@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lowkemy
-- 👀 I’m interested in gaming, electric cars and UAVs
-- 🌱 I’m currently learning SVL simulation.
+- 👀 I’m interested in gaming, electric cars, data analysis, machine learning and consulting.
+- 🌱 I’m currently learning statistical learning and data analytics.
 - 💞️ I’m looking to collaborate on many foresighted projects.
 - 📫 How to reach me igorkemyeni@gmail.com
 
